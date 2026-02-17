@@ -3,6 +3,8 @@
  * Plugin Name: WC Loop Variations Block
  * Description: Display WooCommerce variations inside product loops (FSE / Query Loop compatible).
  * Version: 1.0.0
+ * Author: Toni Q
+ * Text Domain: wc-loop-variations-block
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
