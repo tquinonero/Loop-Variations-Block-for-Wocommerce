@@ -1,0 +1,10 @@
+{
+  "apiVersion": 2,
+  "name": "wc/loop-variations",
+  "title": "Woo Variations (Loop)",
+  "category": "widgets",
+  "icon": "products",
+  "description": "Display product variations inside loops",
+  "editorScript": "file:./block.js",
+  "render": "file:./wc-loop-variations-block.php"
+}
